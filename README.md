@@ -241,6 +241,20 @@ A machine learning application for analyzing historical stock market trends and 
 
 ---
 
+### 🌐 DataFlow Nexus
+
+End-to-end Data Engineering Platform
+
+- Processed 460,775 synthetic records
+- ETL throughput: 18,699 records/sec
+- Achieved 57.14% storage reduction
+- PostgreSQL, Python, Parquet and Docker
+- Automated testing and CI/CD
+
+[View Repository](https://github.com/Anuj05Chandrol/dataflow-nexus)
+
+---
+
 ## 🏗️ Flagship Engineering Roadmap
 
 Building a portfolio of practical, end-to-end engineering systems.
