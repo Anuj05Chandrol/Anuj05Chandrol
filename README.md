@@ -139,6 +139,39 @@ My interests span the complete data lifecycle — from data collection and proce
 
 ## 🚀 Projects
 
+---
+
+### 🌐 DataFlow Nexus — Featured Project
+
+An end-to-end data engineering platform for
+batch processing, data quality validation,
+columnar storage and business analytics.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+[![CI](https://github.com/Anuj05Chandrol/dataflow-nexus/actions/workflows/ci.yml/badge.svg)](https://github.com/Anuj05Chandrol/dataflow-nexus/actions)
+
+| Engineering Metric | Measured Result |
+|---|---:|
+| Records Processed | 460,775 |
+| ETL Execution Time | 24.64 seconds |
+| ETL Throughput | 18,699 records/sec |
+| Storage Reduction | 57.14% |
+| Database | PostgreSQL 16 |
+| Automated CI | Passing |
+
+**Implemented:** Batch ETL, data validation,
+Apache Parquet, PostgreSQL bulk ingestion,
+SQL analytics and automated testing.
+
+**Upcoming:** MinIO, Apache Spark, Apache Kafka,
+Apache Airflow and dbt.
+
+[Explore Source Code](https://github.com/Anuj05Chandrol/dataflow-nexus)
+
+---
+
 ### 🏠 House Price Prediction Application
 
 An end-to-end machine learning application for real estate price prediction.
@@ -172,39 +205,6 @@ A machine learning application for analyzing historical stock market trends and 
 **Tech Stack:** Python, TensorFlow, LSTM, yFinance, Matplotlib
 
 **Repository:** Source code publication planned.
-
----
-
-
-### 🌐 DataFlow Nexus — Featured Project
-
-An end-to-end data engineering platform for
-batch processing, data quality validation,
-columnar storage and business analytics.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-[![CI](https://github.com/Anuj05Chandrol/dataflow-nexus/actions/workflows/ci.yml/badge.svg)](https://github.com/Anuj05Chandrol/dataflow-nexus/actions)
-
-| Engineering Metric | Measured Result |
-|---|---:|
-| Records Processed | 460,775 |
-| ETL Execution Time | 24.64 seconds |
-| ETL Throughput | 18,699 records/sec |
-| Storage Reduction | 57.14% |
-| Database | PostgreSQL 16 |
-| Automated CI | Passing |
-
-**Implemented:** Batch ETL, data validation,
-Apache Parquet, PostgreSQL bulk ingestion,
-SQL analytics and automated testing.
-
-**Upcoming:** MinIO, Apache Spark, Apache Kafka,
-Apache Airflow and dbt.
-
-[Explore Source Code](https://github.com/Anuj05Chandrol/dataflow-nexus)
-
 
 ---
 
@@ -362,6 +362,3 @@ A dedicated portfolio website is planned to showcase:
 **Learn • Build • Innovate • Improve**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=120&section=footer"/>
-
-</div>
-
