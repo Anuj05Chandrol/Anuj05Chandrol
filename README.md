@@ -302,6 +302,22 @@ Building a portfolio of practical, end-to-end engineering systems.
 ---
 
 
+---
+
+## 📊 Advanced Engineering Metrics
+
+<div align="center">
+
+<img
+  width="95%"
+  src="https://raw.githubusercontent.com/Anuj05Chandrol/Anuj05Chandrol/main/github-metrics.svg"
+  alt="GitHub Engineering Metrics"
+/>
+
+</div>
+
+---
+
 ## 🏆 Certifications
 
 | Certification | Issuing Organization | Year |
